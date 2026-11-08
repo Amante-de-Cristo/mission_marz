@@ -1,0 +1,6 @@
+{
+  "name": "mission-marz",
+  "description": "Interactive 3D Mars Base Builder and Life Support Simulation powered by Three.js and real NASA mission metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
